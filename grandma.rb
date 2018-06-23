@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma method
-puts "I LOVE YOU TOO PUMPKIN!"
+puts "I LOVE YOU GRANDMA!"
 
 end
 # Whatever you say to grandma, she should respond with
